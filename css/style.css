@@ -106,3 +106,7 @@ body {
     font-family: sans-serif, serif;
     color: #92a3ab;
 }
+
+br {
+    padding: 0%;
+}
